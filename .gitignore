@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Librerías dinámicas compiladas de C++
+*.dll
+*.so
